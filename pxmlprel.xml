@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<knife>
+    <earliest_knife>
+        <flint_knife>
+            <were_made>
+                <flint>
+                <old_of_flint_knife>
+                    1.76 million years old
+                </old_of_flint_knife>
+                </flint>
+            </were_made>
+        </flint_knife>
+    </earliest_knife>
+    <who_invented_knife>
+        <name> 
+            <homo_sapiens>
+                <what_ages>
+                    <during_prehistoric_times>
+                        <used_for>
+                            weapon
+                        </used_for>
+                    </during_prehistoric_times>
+                </what_ages>
+            </homo_sapiens>
+        </name>
+    </who_invented_knife>
+    <type>
+        <chefs_knife>  
+            <brand>
+                <wusthof>
+                    <model>
+                        classic
+                    </model>
+                </wusthof>
+            </brand>
+        </chefs_knife>
+    </type>
+    <common_types_knife>
+        <bread_knife> 
+            <who_invented>
+                <joseph_e_burns>
+                    <time_invented>
+                        1919
+                    </time_invented>
+                </joseph_e_burns>
+            </who_invented>
+        </bread_knife>
+    </common_types_knife>
+    <most_expensive_knife>
+        <name>
+            <The_Gem_Of_The_Orient>
+                <who_invented>
+                    <Buster_Warenski>
+                        <price>
+                            $2.1million
+                        </price>
+                    </Buster_Warenski >
+                </who_invented>
+            </The_Gem_Of_The_Orient>
+        </name>
+    </most_expensive_knife>
+</knife>
